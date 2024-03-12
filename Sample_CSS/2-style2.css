@@ -1,0 +1,6 @@
+/*pっていう要素に対して、メソッド内のスタイル（処理）を適応させる*/
+p{
+    color:blue;
+    text-decoration: underline;
+    font-size: 24px;
+}
