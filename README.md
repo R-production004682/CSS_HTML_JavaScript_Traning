@@ -1,2 +1,2 @@
 # CSS_HTML_JavaScript_Traning
-企業課題
+初学者用の問題集
